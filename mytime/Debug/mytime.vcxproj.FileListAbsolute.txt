@@ -1,0 +1,2 @@
+D:\c_c++\mytime\Debug\mytime.exe
+D:\c_c++\mytime\Debug\mytime.pdb

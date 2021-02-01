@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1565169482 source:d:\c语言记录\电话号码问题\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

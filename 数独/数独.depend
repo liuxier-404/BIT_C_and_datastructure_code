@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1566727485 source:d:\cÓïÑÔ¼ÇÂ¼\Êı¶À\main.cpp
+	<cstdio>
+	<algorithm>
+	<climits>
+	<iostream>
+	<cstring>
+	<queue>
+

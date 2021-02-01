@@ -1,0 +1,5 @@
+﻿  源.c
+D:\c&c++语言记录\从中缀向后缀转换表达式\源.c(14,16): warning C4047: “=”:“char”与“void *”的间接级别不同
+D:\c&c++语言记录\从中缀向后缀转换表达式\源.c(37,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+  从中缀向后缀转换表达式.vcxproj -> D:\c&c++语言记录\从中缀向后缀转换表达式\Debug\从中缀向后缀转换表达式.exe

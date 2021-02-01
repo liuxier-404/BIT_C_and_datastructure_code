@@ -1,0 +1,6 @@
+﻿  源.c
+C:\Users\HP\source\repos\礼物包装\源.c(24,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\Users\HP\source\repos\礼物包装\源.c(30,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+  礼物包装.vcxproj -> C:\Users\HP\source\repos\礼物包装\Debug\礼物包装.exe

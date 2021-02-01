@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1565184527 source:d:\c语言记录\eul的神圣法杖\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

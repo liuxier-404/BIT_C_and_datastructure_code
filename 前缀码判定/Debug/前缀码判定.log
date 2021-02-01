@@ -1,0 +1,6 @@
+﻿  源.cpp
+D:\c&c++语言记录\前缀码判定\源.cpp(98,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\c&c++语言记录\前缀码判定\源.cpp(101,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+  前缀码判定.vcxproj -> D:\c&c++语言记录\前缀码判定\Debug\前缀码判定.exe

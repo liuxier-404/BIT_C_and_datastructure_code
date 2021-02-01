@@ -1,0 +1,2 @@
+D:\c_c++\os_4\Debug\os_4.exe
+D:\c_c++\os_4\Debug\os_4.pdb

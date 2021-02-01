@@ -1,0 +1,3 @@
+﻿  producer_customer.cpp
+D:\c_c++\producer_customer\producer_customer.cpp(60,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  producer_customer.vcxproj -> D:\c_c++\producer_customer\Debug\producer_customer.exe

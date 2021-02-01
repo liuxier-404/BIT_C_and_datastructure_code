@@ -1,0 +1,7 @@
+﻿  源.cpp
+D:\c&c++语言记录\二叉树还原\源.cpp(35,27): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\c&c++语言记录\二叉树还原\源.cpp(65,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\c&c++语言记录\二叉树还原\源.cpp(66,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+  二叉树还原.vcxproj -> D:\c&c++语言记录\二叉树还原\Debug\二叉树还原.exe

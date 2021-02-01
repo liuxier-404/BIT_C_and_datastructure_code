@@ -1,0 +1,2 @@
+D:\c&c++语言记录\socket\Debug\socket.exe
+D:\c&c++语言记录\socket\Debug\socket.pdb

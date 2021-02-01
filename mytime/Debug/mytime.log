@@ -1,0 +1,3 @@
+﻿  mytime.cpp
+D:\c_c++\mytime\mytime.cpp(17,5): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  mytime.vcxproj -> D:\c_c++\mytime\Debug\mytime.exe

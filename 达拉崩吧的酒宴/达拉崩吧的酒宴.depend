@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1564369582 source:d:\c语言记录\达拉崩吧的酒宴\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

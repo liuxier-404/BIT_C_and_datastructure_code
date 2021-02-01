@@ -1,0 +1,2 @@
+D:\c_c++\producer_customer\Debug\producer_customer.exe
+D:\c_c++\producer_customer\Debug\producer_customer.pdb

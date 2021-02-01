@@ -1,0 +1,5 @@
+﻿  源.cpp
+D:\c&c++语言记录\赎罪\源.cpp(25,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c&c++语言记录\赎罪\源.cpp(32,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c&c++语言记录\赎罪\源.cpp(67,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  赎罪.vcxproj -> D:\c&c++语言记录\赎罪\Debug\赎罪.exe

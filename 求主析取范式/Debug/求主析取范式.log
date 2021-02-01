@@ -1,0 +1,7 @@
+﻿  源1.cpp
+D:\c&c++语言记录\求主析取范式\源1.cpp(48,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+D:\c&c++语言记录\求主析取范式\源1.cpp(152,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\c&c++语言记录\求主析取范式\源1.cpp(82): warning C4715: “calc”: 不是所有的控件路径都返回值
+  求主析取范式.vcxproj -> D:\c&c++语言记录\求主析取范式\Debug\求主析取范式.exe

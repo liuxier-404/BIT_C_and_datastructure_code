@@ -1,0 +1,15 @@
+﻿  源.cpp
+C:\Users\HP\source\repos\早期操作系统的编辑器\源.cpp(30,20): warning C4018:  “<”: 有符号/无符号不匹配
+C:\Users\HP\source\repos\早期操作系统的编辑器\源.cpp(36,12): warning C4018:  “>”: 有符号/无符号不匹配
+C:\Users\HP\source\repos\早期操作系统的编辑器\源.cpp(27,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\Users\HP\source\repos\早期操作系统的编辑器\源.cpp(79,14): warning C4018:  “<”: 有符号/无符号不匹配
+C:\Users\HP\source\repos\早期操作系统的编辑器\源.cpp(94,12): warning C4018:  “>”: 有符号/无符号不匹配
+C:\Users\HP\source\repos\早期操作系统的编辑器\源.cpp(93,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\Users\HP\source\repos\早期操作系统的编辑器\源.cpp(110,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\Users\HP\source\repos\早期操作系统的编辑器\源.cpp(157,12): warning C4018:  “>”: 有符号/无符号不匹配
+C:\Users\HP\source\repos\早期操作系统的编辑器\源.cpp(156,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+  早期操作系统的编辑器.vcxproj -> C:\Users\HP\source\repos\早期操作系统的编辑器\Debug\早期操作系统的编辑器.exe

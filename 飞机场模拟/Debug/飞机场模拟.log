@@ -1,0 +1,6 @@
+﻿  源.c
+D:\c&c++语言记录\飞机场模拟\源.c(82,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\c&c++语言记录\飞机场模拟\源.c(94,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+  飞机场模拟.vcxproj -> D:\c&c++语言记录\飞机场模拟\Debug\飞机场模拟.exe
